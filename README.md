@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Feedget é um serviço de feedbacks para o usuário poder reportar bugs, sugerir features e enviar comentários para a administração de algum app, podendo anexar ao feedback um screenshot da tela para ilustrar o ocorrido.
+O Feedget é um serviço de feedbacks para que o usuário reporte bugs, possa sugerir features e enviar comentários para a administração de algum app, podendo anexar ao feedback um screenshot da tela para ilustrar o ocorrido.
 
 ## 🔖 Layout
 
